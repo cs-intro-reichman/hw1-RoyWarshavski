@@ -1,5 +1,5 @@
 
-import java.util.stream.Gatherer;
+
 
 // Splits a restaurant bill evenly among three diners.
 public class Bill3 {
