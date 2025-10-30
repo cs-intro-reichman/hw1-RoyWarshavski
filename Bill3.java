@@ -7,7 +7,7 @@ public class Bill3 {
 
 		// args of string
 	    String name1 =args[0];
-		String name2 = rgs[1]; 
+		String name2 =args[1]; 
 		String name3 =args[2];
 		int total = Integer.parseInt(args[3]); // convert string to int 
 
